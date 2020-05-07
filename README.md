@@ -18,6 +18,7 @@ Maintenance
 -------------------
 If you are looking to host this somewhere, be warned. You have to clean out the database file every once in a while. This is because legacy giftbot (this repo) was not using SQLite3 yet. This will cause rapid inflation of the file size but can be fixed with a cleaning every once in a while. (Search for: `"ended": true`)
 
+If you have an questions, contact me: Syntax#9930
 
 Requirements
 -------------------
